@@ -2,11 +2,11 @@ HOW TO INSTALL:
 
 CUSTOM ASSSETS: First, extract the "custom.zip" using a free extraction
 program such as WinRar. Next drag the new "custom" folder into the 
-directory: "...\steamapps\common\Team Fortress 2\tf". Don't worry if 
-the folder already exists because they will merge with only one or two 
-natural conflictions, just replace any conflicting files.
+directory: "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf". 
+Don't worry if the folder already exists because they will merge with only 
+one or two natural conflictions, just replace any conflicting files.
 
-SCRIPTS: First, navigate to "...\steamapps\common\Team Fortress 2\tf". If you have
+SCRIPTS: Navigate to "...\steamapps\common\Team Fortress 2\tf" again. If you have
 previously installed scripts it is recommended you delete the "cfg" folder located
 here (VERIFY INTEGRITY OF GAME FILES IF YOU DO THIS). If not, simply drag the included "cfg" folder to the "tf" folder. If you 
 have a five button mouse, replace the pyro, soldier, and spy scripts in the "cfg" 
@@ -17,3 +17,11 @@ It's highly recommended you do this if you ever delete your "cfg" folder, or if 
 your first time installing the scripts. Navigate to your steam library, right click on tf2,
 and then navigate to the "local files tab" and click "Verify Integrity of Game Files" then
 wait for it to finish.
+
+HOW TO USE POTATO COMPUTER GRAPHICS:
+If you have framerate issues with the regular config, navigate to the 
+"...\steamapps\common\Team Fortress 2\tf\cfg\" folder. In here there is a file called
+"autoexec.cfg". Open this file with your prefered text editor. You should see a line
+that has "//exec potatogfx" written. Delete the "//" to uncomment the execution of the
+potato graphics script (For better load times add a "//" before the "exec gfx" so it
+doesn't have to load both :3 ).
