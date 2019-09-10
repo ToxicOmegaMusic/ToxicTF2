@@ -6,7 +6,14 @@ directory: "...\steamapps\common\Team Fortress 2\tf". Don't worry if
 the folder already exists because they will merge with only one or two 
 natural conflictions, just replace any conflicting files.
 
-SCRIPTS: First, navigate to "...\steamapps\common\Team Fortress 2\tf" and delete the 
-"cfg" folder". Next, move the new included "cfg" folder to your "tf" folder. If you 
+SCRIPTS: First, navigate to "...\steamapps\common\Team Fortress 2\tf". If you have
+previously installed scripts it is recommended you delete the "cfg" folder located
+here (VERIFY INTEGRITY OF GAME FILES IF YOU DO THIS). If not, simply drag the included "cfg" folder to the "tf" folder. If you 
 have a five button mouse, replace the pyro, soldier, and spy scripts in the "cfg" 
 folder with those from the "5BM" folder.
+
+VERIFY GAME FILES:
+It's highly recommended you do this if you ever delete your "cfg" folder, or if this is
+your first time installing the scripts. Navigate to your steam library, right click on tf2,
+and then navigate to the "local files tab" and click "Verify Integrity of Game Files" then
+wait for it to finish.
