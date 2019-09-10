@@ -6,7 +6,7 @@ directory: "...\steamapps\common\Team Fortress 2\tf". Don't worry if
 the folder already exists because they will merge with only one or two 
 natural conflictions, just replace any conflicting files.
 
-SCRIPTS: First, move the "cfg" folder to "...\steamapps\common\Team Fortress 2\tf". 
-It's up to you if you want to delete the old "cfg" (recommended) or merge with your 
-current one. If you have a five button mouse, replace the pyro, soldier, and spy
-scripts in the "cfg" folder with those from the "5BM" folder.
+SCRIPTS: First, navigate to "...\steamapps\common\Team Fortress 2\tf" and delete the 
+"cfg" folder". Next, move the new included "cfg" folder to your "tf" folder. If you 
+have a five button mouse, replace the pyro, soldier, and spy scripts in the "cfg" 
+folder with those from the "5BM" folder.
