@@ -1,0 +1,7 @@
+CREDITS:
+
+ToxicOmega (SCRIPTING)
+cfg.tf (SCRIPTING)
+Woolen Sleevelet (SCRIPTING)
+Comanglia (SCRIPTING)
+CriticalFlaw (HUD)
