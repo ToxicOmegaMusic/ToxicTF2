@@ -14,9 +14,9 @@ folder with those from the "5BM" folder.
 
 VERIFY GAME FILES:
 It's highly recommended you do this if you ever delete your "cfg" folder, or if this is
-your first time installing the scripts. Navigate to your steam library, right click on tf2,
-and then navigate to the "local files tab" and click "Verify Integrity of Game Files" then
-wait for it to finish.
+your first time installing the scripts. Navigate to your steam library, right click on tf2, 
+select properties, and then navigate to the "local files tab" and click
+"Verify Integrity of Game Files" then wait for it to finish.
 
 HOW TO USE POTATO COMPUTER GRAPHICS:
 If you have framerate issues with the regular config, navigate to the 
