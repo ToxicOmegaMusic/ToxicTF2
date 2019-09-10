@@ -1,1 +1,3 @@
+Put this into your games launch options:
+
 -novid
