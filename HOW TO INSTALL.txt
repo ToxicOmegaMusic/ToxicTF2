@@ -23,5 +23,4 @@ If you have framerate issues with the regular config, navigate to the
 "...\steamapps\common\Team Fortress 2\tf\cfg\" folder. In here there is a file called
 "autoexec.cfg". Open this file with your prefered text editor. You should see a line
 that has "//exec potatogfx" written. Delete the "//" to uncomment the execution of the
-potato graphics script (For better load times add a "//" before the "exec gfx" so it
-doesn't have to load both :3 ).
+potato graphics script (Leave the "exec gfx" uncommented).
