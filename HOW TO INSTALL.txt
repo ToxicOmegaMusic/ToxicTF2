@@ -18,7 +18,7 @@ your first time installing the scripts. Navigate to your steam library, right cl
 select properties, and then navigate to the "local files tab" and click
 "Verify Integrity of Game Files" then wait for it to finish.
 
-HOW TO USE POTATO COMPUTER GRAPHICS:
+HOW TO USE POTATO COMPUTER GRAPHICS (IGNORE!!!!!!!!!!!! THIS ISNT READY!!!):
 If you have framerate issues with the regular config, navigate to the 
 "...\steamapps\common\Team Fortress 2\tf\cfg\" folder. In here there is a file called
 "autoexec.cfg". Open this file with your prefered text editor. You should see a line
