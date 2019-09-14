@@ -8,9 +8,10 @@ one or two natural conflictions, just replace any conflicting files.
 
 SCRIPTS: Navigate to "...\steamapps\common\Team Fortress 2\tf" again. If you have
 previously installed scripts it is recommended you delete the "cfg" folder located
-here (VERIFY INTEGRITY OF GAME FILES IF YOU DO THIS). If not, simply drag the included "cfg" folder to the "tf" folder. If you 
-have a five button mouse, replace the pyro, soldier, and spy scripts in the "cfg" 
-folder with those from the "5BM" folder.
+here (VERIFY INTEGRITY OF GAME FILES RIGHT AFTER DOING THIS). If not, simply drag 
+the included "cfg" folder to the "tf" folder. If you have a five button mouse, 
+replace the pyro, soldier, and spy scripts in the "cfg" folder with those from the 
+"5BM" folder.
 
 VERIFY GAME FILES:
 It's highly recommended you do this if you ever delete your "cfg" folder, or if this is

@@ -1,6 +1,7 @@
 There are a few extra scripts I added in for your pleasure. You can run them at
 any time from the console by typing "exec 'script name'", EX: "exec disable_shadows".
-Also the game SHOULD keep these settings saved even after restarting.... I hope.
+Also the game WILL sadly reset ragdolls and shadows to being disabled after restarting
+the game unless you change it in the "autoexec.cfg".
 
 Scripts:
 fix - Runs all the commands that solve common issues in the game (invisible players, looping sound, etc).
@@ -11,3 +12,4 @@ enable_goodshadows - Enables full quality shadows (Used competetively to see pla
 disable_shadows - Disables shadows.
 enable_ragdolls - Enables ragdolls and gibs.
 disable_ragdolls - Disables ragdolls and gibs.
+antiw - "Tries" to kill the player when they press W while rocket jumping. Intended for jump maps.
