@@ -6,13 +6,15 @@ the game unless you change it in the "autoexec.cfg".
 Scripts:
 fix - Runs all the commands that solve common issues in the game (invisible players, looping sound, etc).
 enable_transparency - Enables transparent viewmodels (Doesn't always work while in a game).
-disable_transparency - DIsables transparent viewmodels.
+disable_transparency - Disables transparent viewmodels.
 enable_shadows - Enables low quality shadows.
 enable_goodshadows - Enables full quality shadows (Used competetively to see players through some walls).
 disable_shadows - Disables shadows.
 enable_ragdolls - Enables ragdolls and gibs.
 disable_ragdolls - Disables ragdolls and gibs.
 antiw - "Tries" to kill the player when they press W while rocket jumping. Intended for jump maps.
+bettergfx - Enables phong, specularity, and bumpmaps.
+worsegfx - Disables phong, specularity, and bumpmaps.
 
 Also there are some binds for things lol.
 
