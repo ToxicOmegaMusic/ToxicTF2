@@ -1,10 +1,11 @@
 HOW TO INSTALL:
 
-CUSTOM ASSSETS: First, extract the "custom.zip" using a free extraction
+CUSTOM ASSSETS: First, extract the "custom.zip" using any free extraction
 program such as WinRar. Next drag the new "custom" folder into the 
 directory: "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf". 
 Don't worry if the folder already exists because they will merge with only 
-one or two natural conflictions, just replace any conflicting files.
+one or two natural conflictions, just replace any conflicting files. I also recommended
+wiping this folder if youre updating from an older version of my config.
 
 SCRIPTS: Navigate to "...\steamapps\common\Team Fortress 2\tf" again. If you have
 previously installed scripts it is recommended you delete the "cfg" folder located
@@ -14,7 +15,17 @@ replace the pyro, soldier, and spy scripts in the "cfg" folder with those from t
 "5BM" folder.
 
 VERIFY GAME FILES:
-It's highly recommended you do this if you ever delete your "cfg" folder, or if this is
-your first time installing the scripts. Navigate to your steam library, right click on tf2, 
-select properties, and then navigate to the "local files tab" and click
-"Verify Integrity of Game Files" then wait for it to finish.
+It's highly recommended you do this anytime you delete your "cfg" folder. Navigate 
+to your steam library, right click on tf2, select properties, and then navigate 
+to the "local files tab" and click "Verify Integrity of Game Files" then wait 
+for it to finish.
+
+ENABLE TRANSPARENT VIEWMODELS:
+I do not support transparent viewmodels as they are annoying to work with, they take away
+a ton of fps, and they aren't easily toggled. However, all required files ARE included.
+To enable them, first find your "autoexec.cfg" in your cfg folder. Edit it in notepad and
+uncomment the "//exec enable_transparency" by deleting the "//". Now, go to "tf\custom\FlawHUD-master\scripts".
+Inside you'll find a file called "hudlayout.res", open it with notepad. If you scroll down a little
+you will find a section titled "TRANSPARENT VIEWMODEL" which is incased by two curly braces {}. Inside
+that secion you should see two variables which are named "visible" and "enabled" which are currently set
+to 0. The last step to enable transparent viewmodels is to simply set them both to 1.
