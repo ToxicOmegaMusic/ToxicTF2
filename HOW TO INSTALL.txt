@@ -1,8 +1,8 @@
 HOW TO INSTALL:
 
-CUSTOM ASSSETS: First, extract the "custom.zip" using any free extraction
-program such as WinRar. Next drag the new "custom" folder into the 
-directory: "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf". 
+CUSTOM ASSSETS: First, download the custom zip file from http://bit.ly/2kPdmn7 Now that you 
+have it, extract the "custom.zip" using any free extraction program such as WinRar. Next 
+drag the new "custom" folder into the directory: "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf". 
 Don't worry if the folder already exists because they will merge with only 
 one or two natural conflictions, just replace any conflicting files. I also recommended
 wiping this folder if youre updating from an older version of my config.
