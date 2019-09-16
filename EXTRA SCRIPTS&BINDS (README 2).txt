@@ -17,4 +17,5 @@ antiw - "Tries" to kill the player when they press W while rocket jumping. Inten
 Also there are some binds for things lol.
 
 Q - Toggles first person viewmodels.
+R - Call for spy.
 ALT - Toggles floating health bar, use if you can'y see allies health.
