@@ -1,18 +1,25 @@
 HOW TO INSTALL:
 
-CUSTOM ASSSETS: First, download the custom zip file from http://bit.ly/2lT3OIb Now that you 
+CUSTOM ASSSETS: 
+First, download the custom zip file from http://bit.ly/2lT3OIb Now that you 
 have it, extract the "custom.zip" using any free extraction program such as WinRar. Next 
 drag the new "custom" folder into the directory: "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf". 
 Don't worry if the folder already exists because they will merge with only 
 one or two natural conflictions, just replace any conflicting files. I also recommended
 wiping this folder if youre updating from an older version of my config.
 
-SCRIPTS: Navigate to "...\steamapps\common\Team Fortress 2\tf" again. If you have
+SCRIPTS: 
+Navigate to "...\steamapps\common\Team Fortress 2\tf" again. If you have
 previously installed scripts it is recommended you delete the "cfg" folder located
 here (VERIFY INTEGRITY OF GAME FILES RIGHT AFTER DOING THIS). If not, simply drag 
 the included "cfg" folder to the "tf" folder. If you have a five button mouse, 
 replace the pyro, soldier, and spy scripts in the "cfg" folder with those from the 
 "5BM" folder.
+
+LAUNCH OPTIONS:
+Go to your steam library, right click on Team Fortress 2 and click properties. Next click 
+the "SET LAUNCH OPTIONS" button and paste everything the "launch options" text document I included
+into the text box that pops up.
 
 VERIFY GAME FILES:
 It's highly recommended you do this anytime you delete your "cfg" folder. Navigate 
