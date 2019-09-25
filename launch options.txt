@@ -1,1 +1,3 @@
--novid -sv_forcepreload 1
+-novid -sv_forcepreload 1 -high
+
+You can also add -threads # and replace the # with the number of threads your cpu has. If you're unsure, just ignore it.
