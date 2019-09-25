@@ -11,8 +11,9 @@ disable_shadows - Disables shadows.
 enable_ragdolls - Enables ragdolls and gibs.
 disable_ragdolls - Disables ragdolls and gibs.
 antiw - "Tries" to kill the player when they press W while rocket jumping. Intended for jump maps.
-bettergfx - Enables phong, specularity, bumpmaps, ragdolls, gibs, and max shadows.
-worsegfx - Disables phong, specularity, bumpmaps, ragdolls, gibs, and shadows.
+goodgfx - Really pretty!
+midgfx - Kinda meh?
+potatogfx - Taters!
 
 Also some binds:
 Q - Toggles first person viewmodels.
