@@ -16,7 +16,7 @@ worsegfx - Disables phong, specularity, bumpmaps, ragdolls, gibs, and shadows.
 
 Also some binds:
 Q - Toggles first person viewmodels.
-R - Call for spy.
+R - Say "Thanks!" (Unavailable for spy for a lot of complicated reasons).
 ALT - Toggles floating health bar, use if you can'y see allies health.
 
 5BM/Advanced Binds:
