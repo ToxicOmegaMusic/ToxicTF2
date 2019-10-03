@@ -43,6 +43,8 @@ ALT - Toggles floating health bar, use if you can'y see allies health.
 	-Mouse4: Alt Fire
 	-Mouse5: Non-crouch Jump
 	-O: Special Attack/Attack3 (For the demo things in jump maps)
+	-]: Market Gardener script (right click for melee)
+	-[: Back to normal Soldier script
 	Spy:
 	-Mouse1: Attack
 	-Mouse2: Invis Watch
