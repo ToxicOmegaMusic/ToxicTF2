@@ -19,6 +19,7 @@ Also some binds:
 Q - Toggles first person viewmodels.
 R - Say "Thanks!" (Unavailable for spy for a lot of complicated reasons).
 ALT - Toggles floating health bar, use if you can'y see allies health.
+CTRL - Schadenfreude if u have it equiped.
 
 5BM/Advanced Binds:
 	Medic:
