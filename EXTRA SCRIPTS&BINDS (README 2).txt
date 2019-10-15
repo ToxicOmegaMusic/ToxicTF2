@@ -28,9 +28,9 @@ CTRL - Schadenfreude if u have it equiped.
 	Pyro:
 	-Mouse1: Primary
 	-Mouse2: Air Blast
-	-Mouse3: Melee
+	-Mouse3: Alt Fire
 	-Mouse4: Secondary
-	-Mouse5: Alt Fire
+	-Mouse5: Melee
 	Scout:
 	-Mouse1: Primary
 	-Mouse2: Secondary
