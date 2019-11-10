@@ -1,1 +1,1 @@
--novid -sv_forcepreload 1 -high
+-novid -sv_forcepreload 1
