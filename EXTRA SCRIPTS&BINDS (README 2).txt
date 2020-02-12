@@ -15,7 +15,7 @@ Script Console Commands:
 
 Also some binds:
 	Q - Toggles first person viewmodels.
-	R - Say "Thanks!".
+	R - Say "Thanks!" (Unless you're spy, then its to change the team colors in the diguise kit).
 	ALT - Toggles floating health bar, use if you can't see allies health.
 	CTRL - Schadenfreude if u have it equiped.
 	+ (plus) - suicide key
@@ -43,8 +43,11 @@ Also some binds:
 	-Mouse4: Alt Fire
 	-Mouse5: Non-crouch Jump
 	-O: Special Attack/Attack3 (For the demo things in jump maps)
-	-]: Market Gardener script (right click for melee)
-	-[: Back to normal Soldier script
+	Sniper:
+	-Mouse1: Primary
+	-Mouse2: Zoom in/Activate Secondary Weapon
+	-Mouse4: Secondary
+	-Mouse5: Melee
 	Spy:
 	-Mouse1: Attack
 	-Mouse2: Invis Watch
