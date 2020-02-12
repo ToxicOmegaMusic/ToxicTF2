@@ -52,10 +52,11 @@ Also some binds:
 	-Mouse1: Attack
 	-Mouse2: Invis Watch
 	-Mouse3: Undisguise
-	-Mouse4: Disguise as random non-slow enemy.
+	-Mouse4: Disguise Kit
 	-Mouse5: Sapper
 	-Mousewheel Up: Gun
 	-Mousewheel Down: Knife
+	-T: Random Disguise Script
 	-B: Last Disguise
 	-5: Check Enemy Medigun
 	-6: Disguise as Friendly Scout
