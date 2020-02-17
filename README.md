@@ -9,5 +9,6 @@ Hello everyone! This is my huge collection of TF2 stuff I've made/use!
 * Optimization and huge perforance improvements.
 * Custom hit and kill sounds.
 * Highly and easily customizable.
+* And many more small things!
 
 I really hope you enjoy!!!
