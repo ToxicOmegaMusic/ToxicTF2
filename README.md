@@ -1,4 +1,4 @@
-# ToxicTF2
-The goal of these configurations are to give a better vanilla TF2 experience!
+# ToxicTF2 Config!
+Hello everyone! This is my huge collection of TF2 scripts, binds, hud, crosshair, and literally everything else I use!
 
-:)
+I really hope you enjoy!!!
