@@ -1,0 +1,23 @@
+Console Commands:
+	exec fix - Runs many commands that solve common issues in the game (invisible players, looping sound, etc).
+	exec disable_shadows - Disables shadows.
+	exec enable_shadows - Enables low quality shadows.
+	exec enable_goodshadows - Enables full quality shadows (Used competetively to see players through some walls).
+	exec disable_ragdolls - Disables ragdolls and gibs.
+	exec enable_ragdolls - Enables ragdolls and gibs.
+	exec antiw - "Tries" to kill the player when they press W while rocket jumping. Intended for jump learning rocket jumping.
+	exec high - Best graphics with the least performance
+	exec medium - Average graphics and performance.
+	exec low - Really ugly graphics with maximum performance.
+
+---Wanna change crosshair size or shape but it keeps resetting? You can find the options for it in the "settings.cfg" file---
+
+All-Class Binds:
+	Q - Toggles first person viewmodels.
+	R - Say "Thanks!" (Unless you're spy, then changes the team colors in the diguise kit).
+	ALT - Toggles floating health bar, use if you can't see giant robot health in MVM.
+	CTRL - Schadenfreude taunt if you have it equiped.
+	1-9 (numpad) - Quick class switch.
+	+ (numpad) - suicide key
+	
+You can find the info on how each class works in their respective class script files!	:D 
