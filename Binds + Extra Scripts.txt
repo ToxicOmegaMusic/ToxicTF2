@@ -5,7 +5,7 @@ Console Commands:
 	exec enable_goodshadows - Enables full quality shadows (Used competetively to see players through some walls).
 	exec disable_ragdolls - Disables ragdolls and gibs.
 	exec enable_ragdolls - Enables ragdolls and gibs.
-	exec antiw - "Tries" to kill the player when they press W while rocket jumping. Intended for jump learning rocket jumping.
+	exec antiw - "Tries" to kill the player when they press W while rocket jumping. Intended for learning rocket jumping.
 	exec high - Best graphics with the least performance
 	exec medium - Average graphics and performance.
 	exec low - Really ugly graphics with maximum performance.

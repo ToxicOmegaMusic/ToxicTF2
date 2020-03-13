@@ -1,1 +1,1 @@
--novid -sv_forcepreload 1 -windowed -noborder
+-novid -nod3dex -windowed -noborder
