@@ -1,1 +1,1 @@
--novid -nod3dex -windowed -noborder
+-novid -nod3dex -noborder
