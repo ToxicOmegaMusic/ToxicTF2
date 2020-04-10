@@ -10,8 +10,6 @@ Console Commands:
 	exec medium - Average graphics and performance.
 	exec low - Really ugly graphics with maximum performance.
 
----Wanna change crosshair size or shape but it keeps resetting? You can find the options for it in the "settings.cfg" file---
-
 All-Class Binds:
 	Q - Toggles first person viewmodels.
 	R - Say "Thanks!" (Unless you're spy, then changes the team colors in the diguise kit).
